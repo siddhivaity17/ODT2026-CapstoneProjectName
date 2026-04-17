@@ -1,11 +1,10 @@
 **Project Title**
 
-[Enter your project name here]
+RoDa- Robot Dangal
 
 **📌 Project Overview**
 
-[Provide a short description of your project]
-
+RoboDangal is a real-time, competitive, two-player combat game set in a physical arena. The experience merges the excitement of classic sumo wrestling with the precision and control of remotely operated robotics. Players pilot their own ESP32-powered bot from a mobile device, using Bluetooth-based joystick controls to manoeuvre, attack, and survive within the arena boundaries.
 
 **📂 Repository Structure**
 1. Electronics Details
@@ -28,4 +27,5 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Siddhi Vaity and Anindita Vaishnava Hazra
+
